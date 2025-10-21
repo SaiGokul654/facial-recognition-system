@@ -1,0 +1,12 @@
+{
+  "name": "facial-recognition-frontend",
+  "version": "1.0.0",
+  "description": "Frontend for Facial Recognition System",
+  "main": "index.html",
+  "scripts": {
+    "dev": "live-server --port=3000"
+  },
+  "devDependencies": {
+    "live-server": "^1.2.2"
+  }
+}

@@ -1,0 +1,30 @@
+body {
+    background-color: #f8f9fa;
+}
+
+.card {
+    box-shadow: 0 0.125rem 0.25rem rgba(0, 0, 0, 0.075);
+}
+
+#originalImage img {
+    max-width: 100%;
+    height: auto;
+}
+
+.face-card {
+    margin-bottom: 1rem;
+}
+
+.face-thumbnail {
+    width: 100px;
+    height: 100px;
+    object-fit: cover;
+    border-radius: 0.25rem;
+}
+
+.recognized-face {
+    border: 2px solid #28a745;
+    margin: 0.5rem;
+    padding: 0.5rem;
+    border-radius: 0.25rem;
+}

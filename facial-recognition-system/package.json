@@ -1,0 +1,12 @@
+{
+  "name": "facial-recognition-system",
+  "version": "1.0.0",
+  "description": "Facial Recognition System",
+  "scripts": {
+    "dev": "cd frontend && npm run dev",
+    "install-frontend": "cd frontend && npm install"
+  },
+  "workspaces": [
+    "frontend"
+  ]
+}
